@@ -29,11 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   💻 GitHub:
-    - 'https://github.com/dsc-courses/dsc106-2025-fa'
+    - 'https://github.com/dsc-courses/dsc209r-2025-fa'
   🙋 Piazza:
-    - 'https://piazza.com/ucsd/fall2025/dsc106_fa25_a00/home'
-  💯 Gradescope:
-    - 'https://www.gradescope.com/courses/1147004'
+    - 'https://piazza.com/class/mfzpsfjzjiw2f1'
 footer_content:
 
 # Collections for website data
