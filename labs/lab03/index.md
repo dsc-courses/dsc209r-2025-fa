@@ -3,7 +3,7 @@ layout: assignment
 title: 'Lab 3: Introduction to JS'
 lab: 3
 parent: '👩‍🔬 Programming Labs'
-released: false
+released: true
 ---
 
 # Lab 3: Introduction to JS
@@ -220,33 +220,34 @@ nav.insertAdjacentHTML('beforeend', `<a href="${url}">${title}</a>`);
 
 Save and preview: you should now have a navigation menu on every page that is added automatically!
 
-However, there is a bit of a wart. Try your menu on different pages.  
-Oh no, the links only work properly on the home page!  
-That is because we had previously used different relative URLs for different pages,  
+However, there is a bit of a wart. Try your menu on different pages.
+Oh no, the links only work properly on the home page!
+That is because we had previously used different relative URLs for different pages,
 but now we are trying to use the same one across the entire website.
 
-Let’s try to do with JS what we previously did manually (sensing a theme here?).  
-Previously, for any page that was not the home page, we added `../` to the URL, right?  
+Let’s try to do with JS what we previously did manually (sensing a theme here?).
+Previously, for any page that was not the home page, we added `../` to the URL, right?
 But this approach breaks when we deploy the site using GitHub Pages, which hosts the site under a subdirectory like `/portfolio/` (dependent on what you named your repo).
 
-So instead of figuring out whether we’re on the home page,  
-let’s detect whether we are running the site locally (on `localhost`) or on GitHub Pages,  
+So instead of figuring out whether we’re on the home page,
+let’s detect whether we are running the site locally (on `localhost`) or on GitHub Pages,
 and use that to adjust the base URL for all links.
 
 We can do this by checking the current hostname and defining a constant `BASE_PATH` accordingly:
 
 ```js
-const BASE_PATH = (location.hostname === "localhost" || location.hostname === "127.0.0.1")
-  ? "/"                  // Local server
-  : "/website/";         // GitHub Pages repo name
+const BASE_PATH =
+  location.hostname === 'localhost' || location.hostname === '127.0.0.1'
+    ? '/' // Local server
+    : '/website/'; // GitHub Pages repo name
 ```
 
 {: .tip }
-The [`location.hostname`](https://developer.mozilla.org/en-US/docs/Web/API/Location/hostname) property gives us the domain of the current page.  
-If we're working locally, it will be `"localhost"` or `"127.0.0.1"`.  
+The [`location.hostname`](https://developer.mozilla.org/en-US/docs/Web/API/Location/hostname) property gives us the domain of the current page.
+If we're working locally, it will be `"localhost"` or `"127.0.0.1"`.
 If we're on GitHub Pages, it will be something like `"yourusername.github.io"`.
 
-Then, when creating the links, we’ll check if the URL is relative (i.e. does not start with `"http"`),  
+Then, when creating the links, we’ll check if the URL is relative (i.e. does not start with `"http"`),
 and if so, we’ll prefix it with the `BASE_PATH`. This ensures that all internal links work properly both locally and when deployed.
 
 ```js
