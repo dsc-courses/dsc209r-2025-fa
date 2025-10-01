@@ -43,8 +43,8 @@ Below is your lab submission checklist, please read carefully.
    2. Show how your webpage resizes gracefully.
    3. Share the most interesting thing you learned from this lab.
 
-**Videos longer than 2 minutes will be trimmed to 2 minutes before we grade, so
-make sure your video is 2 minutes or less.**
+**Videos longer than 1 minute will be trimmed to 1 minute before we grade, so
+make sure your video is about 1 minute long.**
 
 ## Prerequisites
 
