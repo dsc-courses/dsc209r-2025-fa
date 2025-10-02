@@ -155,7 +155,7 @@ completed assignment is due on **Friday 10/10, by 11:59pm**.
 
 ### Checkpoint Submission
 
-You must submit your assignment using Gradescope. Please upload a single PDF with the following:
+You must submit your assignment using Canvas. Please upload a single PDF with the following:
 
 <ul>
     <li>3 plots that you are considering for your project</li>
@@ -164,7 +164,7 @@ You must submit your assignment using Gradescope. Please upload a single PDF wit
 
 ### Final Submission
 
-You must submit your assignment using Gradescope. Please upload a PDF with a
+You must submit your assignment using Canvas. Please upload a PDF with a
 single image of your visualization design and your write-up, in two **separate**
 pages.
 
