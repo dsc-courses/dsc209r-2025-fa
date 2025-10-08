@@ -89,11 +89,11 @@ The assignment is out of 14 points possible. Submissions that squarely meet the 
 
 ### Team Registration
 
-Submit your [team registration form][link5] by **Mon 05/05, 11:59 PM**.
+Submit your [team registration form][link5] by **Thurs 10/30, 11:59 PM**.
 
 ### Checkpoint Submission
 
-The submission must be made on gradescope by **Tue 05/06, 11:59 PM**. For this submission, submit an **mp4** video no longer than 2 minutes with the following details:
+The submission must be made on gradescope by **Fri 10/31, 11:59 PM**. For this submission, submit an **mp4** video no longer than 2 minutes with the following details:
 
 1. Name of your team and team members
 2. Dataset chosen. Explain the aspects of the datasets you plan to use.
@@ -109,7 +109,7 @@ Please ensure that the video has an associated audio/voiceover rather than just 
 
 ### Final Submission
 
-You must have a working prototype online by **Tue 05/13, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
+You must have a working prototype online by **Fri 11/07, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
 
 In addition, **you must submit the URL on Gradescope**. **One submission per team is sufficient**.
 
