@@ -128,7 +128,7 @@ assignment is due on **Fri 10/24, by 11:59pm**.
 
 ### Checkpoint Submission
 
-You must submit your assignment using Gradescope. Please upload a single PDF with the following:
+You must submit your assignment using Canvas. Please upload a single PDF with the following:
 
 1. One the first page, provide 2 persuasive visualizations for one side of a proposition. The visualizations could be persuading the same proposition or two different propositions.
 2. In a **separate** page, provide 2 persuasive visualizations for the opposing side of a proposition. Again, they will either be persuading an opposite stance from the same proposition as the first page or the two different propositions from the first page.
