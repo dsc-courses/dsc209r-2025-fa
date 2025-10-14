@@ -37,7 +37,7 @@ In your submission for the lab, along with the link to your github repo and webs
 2. Show you interacting with your webpage with ALL of your new javascript modifications.
 3. Share the most interesting thing you learned from this lab **AND** answer one think about it question in the lab.
 
-**Videos longer than 1 minutes will cause point deduction, so
+**Videos longer than 1 minute will cause point deduction, so
 make sure your video is 1 minute or less.**
 
 ## Prerequisites
