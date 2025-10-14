@@ -46,7 +46,7 @@ Below is your lab submission checklist, please read carefully.
 
 Please note that the video has to be in **mp4 format only.** There will be point deductions for other video formats.
 
-**Videos longer than 1 minutes will be trimmed to 1 minute before we grade, so
+**Videos longer than 1 minute will be trimmed to 1 minute before we grade, so
 make sure your video is 1 minute or less.**
 
 ## Prerequisites
