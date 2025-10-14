@@ -89,7 +89,7 @@ The assignment is out of 14 points possible. Submissions that squarely meet the 
 
 ### Team Registration
 
-Submit your [team registration form][link5] by **Thurs 10/30, 11:59 PM**.
+Submit your [team registration form][link5] by **Wed 10/29, 11:59 PM**.
 
 ### Checkpoint Submission
 
@@ -117,9 +117,19 @@ Submissions will be reviewed as part of a subsequent peer review assignment, so 
 
 ## Data Sources
 
-We’ve provided four datasets for you to use. **You must only pick a dataset from the list below**.
+**You’re welcome to use any dataset of your choice**. If you don’t have one in mind, we’ve provided four suggested datasets below:
 
+- [Human Development Indicators, 1960–2020](https://github.com/light-and-salt/World-Bank-Data-by-Indicators). The World Bank has tracked global human development by indicators such as economy, education, environment, gender equality, health, and science and technology since 1960. The linked repository contains indicators that have been cleaned and formatted to simplify visual analysis and visualization design. However, you're also welcome to browse and use the original data [by indicator](https://data.worldbank.org/indicator) or [by country](https://data.worldbank.org/country). Click on a category to download the CSV file on the right-hand sidebar.
+
+- [Climate Change Indicators](https://climatedata.imf.org/). Similar to the previous dataset, the International Monetary Fund (IMF) tracks a number of metrics related to climate change including greenhouse gas emissions, strategies for mitigating or adapting to the impacts of climate change, transitioning to a low-carbon economy, climate finance, and the impact on weather. The data is structured as "crosstabs" (also known as "wide" data) where every time period (e.g., quarter or year) is given its own column. To facilitate visualization and visual analysis, you might wish to [pivot the data](https://help.tableau.com/current/pro/desktop/en-us/pivot.htm) into a "long" format.
+
+- [Civilian Complaints Against New York City Police Officers](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers). This is a dataset compiled by ProPublica, an independent, nonprofit investigative journalism newsroom. It contains more than 12,000 civilian complaints filed against the NYPD, with demographic information about the complainant and officer, the category of the alleged misconduct, and the result of the complaint.
+
+- [Abortion Data by U.S. State from the Guttmacher Institute](../resources/data/GuttmacherInstituteAbortionDataByState.xlsx) The Guttmacher Institute is a research and policy organization committed to advancing sexual and reproductive health and rights. They maintain a variety of global data related to global reproductive rights. This data set contains data about abortion rates, abortion providers, and abortion seekers, aggregated to the state level.
+
+<!--
 All datasets contain time series data relevant to health, but from different cohort (and species), different time scales, and different modalities. Time series analyses in themselves are not critical to exploring the data, but allow for forecasting and windowing of classifier data alongside unsupervised and statistical approaches.
+
 
 ### BIG IDEAs Lab Glycemic Variability and Wearable Device Data v1.0.0
 
@@ -158,3 +168,4 @@ Address: [VitalDB][link11]
 Korean hospital data (inter-operative, meaning during the operation) from 6,388 individual surgeries. High frequency biosensor data captures biosigns throughout the procedures, and these are paired with outcomes and related medical records. Data are downloadable zipped .csv files.
 
 [link11]: https://vitaldb.net/dataset/
+-->
