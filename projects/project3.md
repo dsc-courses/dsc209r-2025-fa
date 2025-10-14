@@ -26,11 +26,11 @@ One challenge is to **scope the assignment so that you can finish it within two 
 
 For this assignment, you should work in teams of **3-4 students**. You might want to find project partners that you will continue to work with for the final project.
 
-As soon as you have formed a team and chosen a dataset, submit the [team registration form][link5]. Your form must include **the names, UCSD email addresses, and PIDs** of each team member, along with a **concise title for your interactive visualization**. The visualization title need not be exact, **just a rough title should be a good start**. If you are looking for project partners, please post to Piazza to find classmates with similar interests! **You should submit your team registration by Mon 05/05, 11:59 pm.** Please ensure that the team has been finalized before filling the form, and that the details are correct.
+As soon as you have formed a team and chosen a dataset, submit the [team registration form][link5]. Your form must include **the names, UCSD email addresses, and PIDs** of each team member, along with a **concise title for your interactive visualization**. The visualization title need not be exact, **just a rough title should be a good start**. If you are looking for project partners, please post to Piazza to find classmates with similar interests! **You should submit your team registration by Wed 10/29, 11:59 pm.** Please ensure that the team has been finalized before filling the form, and that the details are correct.
 
 You will submit your interactive prototype as a webpage hosted on [GitHub Pages][link6].
 
-[link5]: https://forms.gle/AULh3m7XUMdXEAzD6
+[link5]: https://forms.gle/1TKSEFZUMSz9VZWU9
 [link6]: https://pages.github.com/
 
 ## Deliverables
@@ -111,7 +111,7 @@ Please ensure that the video has an associated audio/voiceover rather than just 
 
 You must have a working prototype online by **Fri 11/07, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
 
-In addition, **you must submit the URL on Gradescope**. **One submission per team is sufficient**.
+In addition, **you must submit the URL on Canvas**. **One submission per team is sufficient**.
 
 Submissions will be reviewed as part of a subsequent peer review assignment, so try to avoid a late submission; assignments submitted late may not be included as part of the peer review and thus not receive peer feedback.
 
