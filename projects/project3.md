@@ -55,7 +55,7 @@ You can either include your write-up on the same page as your visualization or l
 
 ## Grading Criteria
 
-Projects that squarely meet the requirements for the assignment will receive a score of 9/10.
+Projects that squarely meet the requirements for the assignment will receive a score of 12/14.
 
 Going beyond the call of duty can net additional points, for example:
 
