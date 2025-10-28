@@ -8,7 +8,7 @@ nav_order: 4
 
 # Project 3: Interactive Visualization
 
-For this assignment, you will explore the issues involved in implementing interactive visualizations. You will build a visualization that enables interactive exploration of a health dataset and deploy it on the web.
+For this assignment, you will explore the issues involved in implementing interactive visualizations. You will build a visualization that enables interactive exploration of a dataset and deploy it on the web.
 
 One goal of this assignment is to gain familiarity with implementing interaction techniques for visualizations. For example, the [zipdecode][link] and [NameGrapher][link1] applications apply the interactive technique of dynamic queries – as explored in the earlier [HomeFinder][link2] application – to the problem of uncovering patterns in zip codes and baby names.
 
@@ -35,7 +35,7 @@ You will submit your interactive prototype as a webpage hosted on [GitHub Pages]
 
 ## Deliverables
 
-Design an interactive graphic aimed at enabling understanding of a compelling question. You must use one of the health datasets listed below. To determine what subset of the data and which interactive options are most promising, you may want to perform additional exploratory analysis. What aspects of the data reveal the most interesting discoveries or stories? **Do not feel obligated to try to convey everything about the data: focus on a compelling subset.**
+Design an interactive graphic aimed at enabling understanding of a compelling question. You’re welcome to use any dataset of your choice. To determine what subset of the data and which interactive options are most promising, you may want to perform additional exploratory analysis. What aspects of the data reveal the most interesting discoveries or stories? **Do not feel obligated to try to convey everything about the data: focus on a compelling subset.**
 
 Your graphic must include interactions that enable exploration. Possible techniques include panning, zooming, brushing, details-on-demand (e.g., tooltips), dynamic query filters, and selecting different measures to display. You are free to also consider highlights, annotations, or other narrative features intended to draw attention to particular items of interest and provide additional context.
 
