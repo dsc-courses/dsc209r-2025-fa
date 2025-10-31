@@ -127,7 +127,7 @@ Please do not enable the option for YouTube Kids while uploading the video as it
 
 ## Rubric
 
-### Initial Prototype (due 5/27/2025)
+### Initial Prototype (due 11/21/2025)
 
 - Webpage: 0.5 Point
 - GitHub Repo: 0.5 Point
@@ -141,7 +141,7 @@ Please do not enable the option for YouTube Kids while uploading the video as it
 | **Visualization** | The page has at least 1 visualization on the screen with at least 1 working interaction. (+1 point)                                                                                                                           | The page has at least one visualization, but the visualization doesn’t have an interaction. (+0.5 point)                   | No visualization is working on the page. (+0 point)     |
 | **Writeup**       | The web page writeup contains at least 4 sentences for each of the following questions (≥8 sentences total): 1. What have you done so far? 2. What will be the most challenging of your project to design and why? (+1 point) | The description answered one out of two questions, or didn’t provide at least 4 sentences for each question. (+0.5 points) | The description is missing. (+0 points)                 |
 
-### Demo Video (due 6/3/2025)
+### Demo Video (due 12/02/2025)
 
 The assignment is out of 10 points possible. Submissions that squarely meet the project requirements (Satisfactory column) will get 7/10 points.
 
@@ -155,7 +155,7 @@ The assignment is out of 10 points possible. Submissions that squarely meet the 
 | **Viewing experience**               |                                                                                                                                                                                                                                                                           | The video is easy to view: all images are clearly visible and all text is legible. (+1 point)                                                                                                            | The video is difficult to view (e.g. some images and text are too small to see clearly). (+0.5 points)      |
 | **Creativity and Originality**       | The submission exceeds the assignment requirements, with original insights or a particularly engaging presentation. (+1 bonus point)                                                                                                                                      | The submission meets the assignment requirements. (+0 points)                                                                                                                                            |                                                                                                             |
 
-### Final Deliverables (due 6/08/2025)
+### Final Deliverables (due 12/13/2025)
 
 The assignment is out of 20 points possible. Submissions that squarely meet the project requirements (Satisfactory column) will get 17/20 points.
 
@@ -174,7 +174,7 @@ The assignment is out of 20 points possible. Submissions that squarely meet the 
 | **Video: Takeaways**                        |                                                                                                                                                                               | The video ends with an interesting takeaway and explains why your visualization demonstrates this takeaway effectively. What is the one thing that everyone should learn from your visualization? And why does your visualization succeed at explaining it? (+2 points) | The video ends with a takeaway message but the presentation could be improved (e.g. the takeaway isn’t surprising, or focuses too much on the implementation of the visualization), or does not end with a takeaway message at all. (+1 point)                                          |
 | **Creativity and Originality**              | The submission exceeds the assignment requirements, with original insights or a particularly engaging presentation. (up to +1 bonus point)                                    | The submission meets the assignment requirements. (+0 points)                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                         |
 
-### Project Showcase (12/02/2025)
+### Project Showcase (Tue 12/02, 6-7pm PST)
 
 Attendance at the project showcase is worth 5% of your overall grade. You will
 receive the points if you attend the showcase for the entire duration and
