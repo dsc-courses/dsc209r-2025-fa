@@ -84,14 +84,14 @@ The final project consists of the following milestones:
 - **Team Registration (Wed 11/12, 11:59pm, No Slip Days)**. For this assignment, you should work in teams of **3-4 students**. You may continue with the same teams from Project 3 if you wish. Once your team is formed and you have chosen a dataset, submit the [team registration form](https://forms.gle/FViX3hjwQK6XoPw79). If you received approval to work solo, you still need to submit the form and select **“Solo”** in Question 3. If you are staying with the **same team** as Project 3, please fill out the form as well. Your form must include **the names, UCSD email addresses, and PIDs** of each team member, along with a **concise title for your project**. The title need not be exact, **just a rough title should be a good start**. If you are looking for project partners, please post to Piazza to find classmates with similar interests! 
 
 
-- **Proposal (Fri 11/14, 11:59pm, Can Use Slip Days)**. We need the following information in the project proposal:
+- **Proposal (Fri 11/14, 11:59pm, Can Use Slip Days)**.  Please submit your proposal on **Canvas**. We need the following information in the project proposal:
 
   - Project Title
   - Dataset
   - Brief writeup of what you intend to do (5-10 lines)
   - 5-6 static visualizations on your dataset
-    
-Please submit your proposal on **Canvas**.
+
+   
 
 - **Initial Prototype (Fri 11/21, 11:59pm, Can Use Slip Days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Canvas.
 
@@ -99,7 +99,7 @@ Please submit your proposal on **Canvas**.
 
 - **Final Project Showcase (Tue 12/02, 6-7pm PST)**. We will host a showcase live session (zoom link available in the Week 10 module) on Tue 12/02, 6pm-7pm PST. All students are required to attend the showcase. If you’re unable to join the live session, please email your instructors as soon as possible so we can discuss an alternative assignment.
 
-- **Final Deliverables (Sat 12/13, 11:59pm, No Slip Days)**. There is **no slip days** for final deliverables. Publish your final project web page and final demo video. You will make final touches to your page after any feedback attending week 9 live sessions. More information about preparing the final deliverables is available in the project deliverables section.
+- **Final Deliverables (Sat 12/13, 11:59pm, No Slip Days)**. There is **no slip days** for final deliverables. Publish your final project web page and final demo video. You can make final updates to your page after incorporating feedback from the Week 9 live session. More information about preparing the final deliverables is available in the project deliverables section.
   
 <!--[link8]: https://forms.gle/YQnBTNushjU2drFP7 -->
 
