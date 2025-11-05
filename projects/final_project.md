@@ -2,7 +2,7 @@
 layout: assignment
 title: 'Final Project'
 parent: '📝 Projects'
-released: false
+released: true
 nav_order: 6
 ---
 
@@ -33,7 +33,7 @@ Prior to diving in, it is helpful to gain a sense of what goes into formulating 
 
 ## Explorable Explanations
 
-Your task is to create an Explorable Explanation: an interactive article that explains a complex subject to the reader. The dataset needs to be picked from the same list as Project 3. Focus on creating one or more interactive diagrams interlinked with explanatory text or annotations. We urge you to focus on a highly visual and/or interactive experience, as opposed to expecting a viewer to read large amounts of article text.
+Your task is to create an Explorable Explanation: an interactive article that explains a complex subject to the reader. **You’re welcome to use any dataset of your choice (see requirements about datasets below). If you don’t have one in mind, please choose one of the four datasets provided for Project 3.** Focus on creating one or more interactive diagrams interlinked with explanatory text or annotations. We urge you to focus on a highly visual and/or interactive experience, as opposed to expecting a viewer to read large amounts of article text.
 
 Some useful references are:
 
@@ -51,11 +51,11 @@ Some useful references are:
 [link6]: http://worrydream.com/
 [link7]: http://worrydream.com/ExplorableExplanations/
 
-### What if I don't want to visualize health data?
+### What dataset can I choose ?
 
 To give more flexibility for final projects, in this quarter's offering of DSC
-106, we will allow teams to propose projects that visualize datasets that are
-**not** from Project 3 (including datasets not in the health domain at all!).
+209R, we will allow teams to propose projects that visualize datasets that are
+**not** from Project 3.
 Interested teams must submit their Final Project Proposal by the due date (no
 slip days allowed) and specify the following details in addition to the Proposal
 requirements:
@@ -79,22 +79,27 @@ as long as you fulfill the requirements.
 
 The final project consists of the following milestones:
 
-- **Proposal (Fri 11/14, 11:59pm, Can Use Slip Days)**. Propose your chosen topic, dataset(s), and team members. Complete the registration form (one per team, [Registration Link][link8]). We need the following information in the project proposal:
+
+
+- **Team Registration (Wed 11/12, 11:59pm, No Slip Days)**. For this assignment, you should work in teams of **3-4 students**. You may continue with the same teams from Project 3 if you wish. Once your team is formed and you have chosen a dataset, submit the [team registration form][(https://forms.gle/FViX3hjwQK6XoPw79)]. If you received approval to work solo, you still need to submit the form and select **“Solo”** in Question 3. If you are staying with the **same team** as Project 3, please fill out the form as well. Your form must include **the names, UCSD email addresses, and PIDs** of each team member, along with a **concise title for your project **. The title need not be exact, **just a rough title should be a good start**. If you are looking for project partners, please post to Piazza to find classmates with similar interests! 
+
+
+- **Proposal (Fri 11/14, 11:59pm, Can Use Slip Days)**. We need the following information in the project proposal:
 
   - Project Title
   - Dataset
   - Brief writeup of what you intend to do (5-10 lines)
   - 5-6 static visualizations on your dataset
-
-Apart from the team registration form, please also submit the Canvas assignment for the proposal.
+    
+Please submit your proposal on **Canvas**.
 
 - **Initial Prototype (Fri 11/21, 11:59pm, Can Use Slip Days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Canvas.
 
-- **Demo Video (Tue 12/02, 11:59pm, Can Use Slip Days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. More information about preparing the video is available in the project deliverables section.
+- **Demo Video (Mon 12/01, 11:59pm, No Slip Days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. More information about preparing the video is available in the project deliverables section.
 
-- **Final Project Showcase (Tue 12/02, 6-7pm PST)**. We will host a showcase live session (zoom link available in the Week 10 module) on Tue 12/02, 6pm-7pm PST. All students are required to attend the showcase.
+- **Final Project Showcase (Tue 12/02, 6-7pm PST)**. We will host a showcase live session (zoom link available in the Week 10 module) on Tue 12/02, 6pm-7pm PST. All students are required to attend the showcase. If you’re unable to join the live session, please email your instructors as soon as possible so we can discuss an alternative assignment.
 
-- **Deliverables (Sat 12/13, 11:59pm)**. Publish your final project web page and updated demo video. You may make final touches to your page after any feedback attending week 10 live sessions. More information about preparing the final deliverables is available in the project deliverables section.
+- **Final Deliverables (Sat 12/13, 11:59pm, No Slip Days)**. There is **no slip days** for final deliverables. Publish your final project web page and final demo video. You will make final touches to your page after any feedback attending week 9 live sessions. More information about preparing the final deliverables is available in the project deliverables section.
   
 <!--[link8]: https://forms.gle/YQnBTNushjU2drFP7 -->
 
@@ -118,7 +123,9 @@ Be sure that your video communicates how your visualization designs enable a bet
 
 Please carefully read the [video production guide][video] for details on how to design and record your video. Your videos should be in MPEG4 (.mp4, .m4v) format. Use appropriate compression to ensure your video file is not unnecessarily large. You will post videos online, so we encourage you to put your best face forward to the world!
 
-Your demo video must be published on YouTube. In addition you must submit a URL linking to your video via Canvas by Sat 12/13, 11:59pm. We will have a video showcase during our final lecture session.
+Your final demo video must be published on YouTube. In addition you must **submit a URL linking to your video via Canvas by Sat 12/13, 11:59pm.**
+
+We will have a video showcase on Tue 12/02, so please have a **first version** of your demo video ready and uploaded to YouTube by **Mon 12/01, 11:59pm. and submit a URL via Canvas.**
 
 {: .note}
 Please do not enable the option for YouTube Kids while uploading the video as it can't be added to playlists.
@@ -141,7 +148,7 @@ Please do not enable the option for YouTube Kids while uploading the video as it
 | **Visualization** | The page has at least 1 visualization on the screen with at least 1 working interaction. (+1 point)                                                                                                                           | The page has at least one visualization, but the visualization doesn’t have an interaction. (+0.5 point)                   | No visualization is working on the page. (+0 point)     |
 | **Writeup**       | The web page writeup contains at least 4 sentences for each of the following questions (≥8 sentences total): 1. What have you done so far? 2. What will be the most challenging of your project to design and why? (+1 point) | The description answered one out of two questions, or didn’t provide at least 4 sentences for each question. (+0.5 points) | The description is missing. (+0 points)                 |
 
-### Demo Video (due 12/02/2025)
+### Demo Video (due 12/01/2025)
 
 The assignment is out of 10 points possible. Submissions that squarely meet the project requirements (Satisfactory column) will get 7/10 points.
 
