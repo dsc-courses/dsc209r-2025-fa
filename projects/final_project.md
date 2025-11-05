@@ -99,14 +99,14 @@ The final project consists of the following milestones:
 
 - **Final Project Showcase (Tue 12/02, 6-7pm PST)**. We will host a showcase live session (zoom link available in the Week 10 module) on Tue 12/02, 6pm-7pm PST. All students are required to attend the showcase. If you’re unable to join the live session, please email your instructors as soon as possible so we can discuss an alternative assignment.
 
-- **Final Deliverables (Sat 12/13, 11:59pm, No Slip Days)**. There is **no slip days** for final deliverables. Publish your final project web page and final demo video. You can make final updates to your page after incorporating feedback from the Week 9 live session. More information about preparing the final deliverables is available in the project deliverables section.
+- **Final Deliverables (Sun 12/9, 11:59pm, No Slip Days)**. There is **no slip days** for final deliverables. Publish your final project web page and final demo video. You can make final updates to your page after incorporating feedback from the Week 9 live session. More information about preparing the final deliverables is available in the project deliverables section.
   
 <!--[link8]: https://forms.gle/YQnBTNushjU2drFP7 -->
 
 ## Project Deliverables
 
 To complete your final project, you must provide two primary deliverables, both
-due Sat 12/13, 11:59pm:
+due Sun 12/9, 11:59pm:
 
 - A demonstration video (<= 2 minutes in length) that communicates your project goals and visualizations. This video can be similar to the demo video that you previously submitted but should be updated to reflect the final version of your website.
 - An interactive web page that visualizes your chosen topic.
@@ -123,7 +123,7 @@ Be sure that your video communicates how your visualization designs enable a bet
 
 Please carefully read the [video production guide][video] for details on how to design and record your video. Your videos should be in MPEG4 (.mp4, .m4v) format. Use appropriate compression to ensure your video file is not unnecessarily large. You will post videos online, so we encourage you to put your best face forward to the world!
 
-Your final demo video must be published on YouTube. In addition you must **submit a URL linking to your video via Canvas by Sat 12/13, 11:59pm.**
+Your final demo video must be published on YouTube. In addition you must **submit a URL linking to your video via Canvas by Sun 12/09, 11:59pm.**
 
 We will have a video showcase on Tue 12/02, so please have a **first version** of your demo video ready and uploaded to YouTube by **Mon 12/01, 11:59pm. and submit a URL via Canvas.**
 
@@ -162,7 +162,7 @@ The assignment is out of 10 points possible. Submissions that squarely meet the 
 | **Viewing experience**               |                                                                                                                                                                                                                                                                           | The video is easy to view: all images are clearly visible and all text is legible. (+1 point)                                                                                                            | The video is difficult to view (e.g. some images and text are too small to see clearly). (+0.5 points)      |
 | **Creativity and Originality**       | The submission exceeds the assignment requirements, with original insights or a particularly engaging presentation. (+1 bonus point)                                                                                                                                      | The submission meets the assignment requirements. (+0 points)                                                                                                                                            |                                                                                                             |
 
-### Final Deliverables (due 12/13/2025)
+### Final Deliverables (due 12/09/2025)
 
 The assignment is out of 20 points possible. Submissions that squarely meet the project requirements (Satisfactory column) will get 17/20 points.
 
@@ -187,7 +187,7 @@ Attendance at the project showcase is worth 5% of your overall grade. You will
 receive the points if you attend the showcase for the entire duration and
 present your work with your team during your presentation time slot.
 
-### Team Feedback Form (due 12/13/2025)
+### Team Feedback Form (due 12/09/2025)
 
 You will submit a team feedback form where you will assess the contributions of
 your teammates and reflect on your group collaboration. This is worth 2% of your
