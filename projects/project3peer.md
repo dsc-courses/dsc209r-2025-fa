@@ -8,7 +8,7 @@ nav_order: 5
 
 # Project 3: Interactive Visualization - Peer Grading
 
-You will review 3 Project 3 submissions from your classmates and share constructive feedback. This assignment is an opportunity to both (a) develop skills to effectively evaluate and critically analyze visualization designs, and (b) help guide subsequent efforts by your peers to improve project quality and visualization design across the class.
+You will review 2 Project 3 submissions from your classmates and share constructive feedback. This assignment is an opportunity to both (a) develop skills to effectively evaluate and critically analyze visualization designs, and (b) help guide subsequent efforts by your peers to improve project quality and visualization design across the class.
 
 ## Assignment
 
@@ -20,7 +20,7 @@ Next, author a constructive critique of the visualization covering at least the 
 - Interaction Techniques. Do the supported interaction techniques enable more effective discovery of interesting trends, patterns or outliers? Do they engage the viewer in a process of meaningful exploration or learning? Are the interactions well-implemented, without notable performance issues or usability problems?
 - Design Quality. Assess the overall design quality in terms of organization and presentation. Are elements appropriately titled or labeled? Is there appropriate spacing, layout, legible type, and other forms of design styling? Is it clear where to begin viewing/interacting with the design? Is the overall display confusing or cluttered? How successful is the prototype in meeting the intended goals?
 
-For each of the concerns listed above – visual encodings, interaction techniques, and overall design quality – we recommend using the ["I like / I wish / What if?"][link] format. Be sure to share positive feedback on effective aspects, critical (but respectful!) feedback on what might be improved, and more wild (even half-baked) ideas a team might explore in subsequent design iterations. Your peer review for each of your 3 submissions should contain **at least a dozen such comments (a minimum of 3 comments for each section (I Like/I wish/What if?))**, often much more!
+For each of the concerns listed above – visual encodings, interaction techniques, and overall design quality – we recommend using the ["I like / I wish / What if?"][link] format. Be sure to share positive feedback on effective aspects, critical (but respectful!) feedback on what might be improved, and more wild (even half-baked) ideas a team might explore in subsequent design iterations. Your peer review for each of your 2 submissions should contain **at least a dozen such comments (a minimum of 3 comments for each section (I Like/I wish/What if?))**, often much more!
 
 [link]: https://github.com/dsc-courses/dsc106-wi24/raw/gh-pages/resources/reading/I-Like-I-Wish-What-If.pdf
 
@@ -28,7 +28,7 @@ For each of the concerns listed above – visual encodings, interaction techniqu
 
 This is an individual assignment. You may not work in groups.
 
-Your peer reviews are due **Fri 11/14, 11:59pm**. The links to the submissions that you are required to evaluate will be emailed to you. You must submit peer reviews for 3 Project 3 submissions. To submit your review, you must use Canvas. Please carefully respond to each of the questions raised.
+Your peer reviews are due **Fri 11/14, 11:59pm**. The links to the submissions that you are required to evaluate will be emailed to you. You must submit peer reviews for 2 Project 3 submissions. To submit your review, you must use Canvas. Please carefully respond to each of the questions raised.
 
 **Some important instructions**:
 
