@@ -187,8 +187,10 @@ Attendance at the project showcase is worth 5% of your overall grade. You will
 receive the points if you attend the showcase for the entire duration and
 present your work with your team during your presentation time slot.
 
+<!-- 
 ### Team Feedback Form (due 12/09/2025)
 
 You will submit a team feedback form where you will assess the contributions of
 your teammates and reflect on your group collaboration. This is worth 2% of your
 final grade, and we will grade based on completion.
+-->
